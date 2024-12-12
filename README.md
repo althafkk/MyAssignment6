@@ -1,3 +1,5 @@
+[![Model Architecture Checks](https://github.com/althafkk/MyAssignment6/actions/workflows/model_checks.yml/badge.svg)](https://github.com/althafkk/MyAssignment6/actions/workflows/model_checks.yml)
+
 # MNIST Classification with PyTorch
 
 This project implements a Convolutional Neural Network (CNN) for MNIST digit classification using PyTorch. The model achieves >99.4% test accuracy while maintaining less than 20k parameters.
